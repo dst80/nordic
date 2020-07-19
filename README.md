@@ -1,5 +1,8 @@
 # Nordic
 
+![alt text](./nordic.png)
+
+
 The Nordic project is an attempt to create the Nord Theme for Visual Studio 2019. 
 
 It is still in an initial state (incorrect color pairings between foreground and background, etc).
