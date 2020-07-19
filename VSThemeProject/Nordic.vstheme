@@ -7626,7 +7626,7 @@
         <Background Type="CT_RAW" Source="FFEBCB8B" />
       </Color>
       <Color Name="TETileIconBackground">
-        <Background Type="CT_RAW" Source="FFD8DEE9" />
+        <Background Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="TETileListBackground">
         <Background Type="CT_RAW" Source="FF3B4252" />
@@ -7635,7 +7635,7 @@
         <Background Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="TETileIconBackgroundMouseOver">
-        <Background Type="CT_RAW" Source="FFECEFF4" />
+        <Background Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="TETileListBackgroundMouseOver">
         <Background Type="CT_RAW" Source="FF434C5E" />
@@ -7644,7 +7644,7 @@
         <Background Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="TETileIconBackgroundSelected">
-        <Background Type="CT_RAW" Source="FFECEFF4" />
+        <Background Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="TETileListBackgroundSelected">
         <Background Type="CT_RAW" Source="FF434C5E" />
