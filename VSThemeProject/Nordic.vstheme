@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="nordic" GUID="{de1a580c-41f2-4f9f-913e-4c8b201d8538}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="nordic (1)" GUID="{fd377237-97c2-4d14-9392-1a143a5db321}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF2E3440" />
@@ -1161,7 +1161,7 @@
         <Background Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="CheckBoxBackground">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
       </Color>
       <Color Name="CheckBoxBackgroundHover">
         <Background Type="CT_RAW" Source="FF434C5E" />
@@ -1170,7 +1170,7 @@
         <Background Type="CT_RAW" Source="FF434C5E" />
       </Color>
       <Color Name="CheckBoxBackgroundDisabled">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
       </Color>
       <Color Name="CheckBoxBackgroundFocused">
         <Background Type="CT_RAW" Source="FF434C5E" />
@@ -1179,7 +1179,7 @@
         <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="CheckBoxBorderHover">
-        <Background Type="CT_RAW" Source="FF434C5E" />
+        <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="CheckBoxBorderPressed">
         <Background Type="CT_RAW" Source="FF4C566A" />
@@ -1191,19 +1191,19 @@
         <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="CheckBoxGlyph">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="CheckBoxGlyphHover">
-        <Background Type="CT_RAW" Source="FF434C5E" />
+        <Background Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="CheckBoxGlyphPressed">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="CheckBoxGlyphDisabled">
         <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="CheckBoxGlyphFocused">
-        <Background Type="CT_RAW" Source="FF434C5E" />
+        <Background Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="ComboBoxBackground">
         <Background Type="CT_RAW" Source="FF3B4252" />
@@ -5003,11 +5003,11 @@
       </Color>
       <Color Name="MainWindowActiveCaption">
         <Background Type="CT_RAW" Source="FF2E3440" />
-        <Foreground Type="CT_RAW" Source="FFD8DEE9" />
+        <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="MainWindowInactiveCaption">
         <Background Type="CT_RAW" Source="FF2E3440" />
-        <Foreground Type="CT_RAW" Source="FFECEFF4" />
+        <Foreground Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="MainWindowButtonDownGlyph">
         <Background Type="CT_RAW" Source="FFECEFF4" />
@@ -5125,7 +5125,7 @@
         <Background Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="MainWindowInactiveIconNoSolution">
-        <Background Type="CT_RAW" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="MainWindowActiveIconDefault">
         <Background Type="CT_RAW" Source="FF5E81AC" />
@@ -5140,13 +5140,13 @@
         <Background Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="MainWindowInactiveIconDefault">
-        <Background Type="CT_RAW" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="MainWindowInactiveIconBuilding">
-        <Background Type="CT_RAW" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="MainWindowInactiveIconDebugging">
-        <Background Type="CT_RAW" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="RaftedWindowInactiveIconNoSolution">
         <Background Type="CT_RAW" Source="00000000" />
@@ -6471,11 +6471,11 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="CheckBoxMouseOver">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FFD8DEE9" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="CheckBox">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
         <Foreground Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
     </Category>
@@ -6947,13 +6947,13 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="StartPageListItemGlyph">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="MRUSecondaryForeground">
         <Background Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="VideoRSSItem">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="VideoRSSItemHover">
         <Background Type="CT_RAW" Source="FF434C5E" />
@@ -7001,7 +7001,7 @@
         <Foreground Type="CT_RAW" Source="FF434C5E" />
       </Color>
       <Color Name="StartPageCheckBoxBackground">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
       </Color>
       <Color Name="StartPageCheckBoxMouseOverBackground">
         <Background Type="CT_RAW" Source="FF434C5E" />
@@ -7180,7 +7180,7 @@
         <Background Type="CT_RAW" Source="FF434C5E" />
       </Color>
       <Color Name="CheckBoxBackground">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
       </Color>
       <Color Name="CheckBoxBackgroundHover">
         <Background Type="CT_RAW" Source="FF434C5E" />
@@ -7189,7 +7189,7 @@
         <Background Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="CheckBoxBackgroundDisabled">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
       </Color>
       <Color Name="CheckBoxBackgroundFocused">
         <Background Type="CT_RAW" Source="FF88C0D0" />
@@ -7210,19 +7210,19 @@
         <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="CheckBoxGlyph">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="CheckBoxGlyphHover">
-        <Background Type="CT_RAW" Source="FF434C5E" />
+        <Background Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="CheckBoxGlyphPressed">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="CheckBoxGlyphDisabled">
         <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="CheckBoxGlyphFocused">
-        <Background Type="CT_RAW" Source="FF434C5E" />
+        <Background Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="ComboBoxBackground">
         <Background Type="CT_RAW" Source="FF3B4252" />
