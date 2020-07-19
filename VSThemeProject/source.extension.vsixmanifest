@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="Nord.ice1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="0.1" Language="en-US" Publisher="dst80" />
-        <DisplayName>Nordic</DisplayName>
-        <Description xml:space="preserve">Nordic</Description>
-        <MoreInfo>https://github.com/dst80/nordic</MoreInfo>
-        <License>https://github.com/dst80/nordic/LICENSE</License>
-        <Tags>Visual Studio Theme</Tags>
-        <Preview>true</Preview>
+        <Identity Id="nordic.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="1.0" Language="en-US" Publisher="Dennis" />
+        <DisplayName>nordic</DisplayName>
+        <Description xml:space="preserve">nordic theme project for visual studio</Description>
     </Metadata>
     <Installation>
         <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[16.0, 17.0)" />

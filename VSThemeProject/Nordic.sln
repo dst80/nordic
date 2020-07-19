@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30309.148
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nordic", "Nordic.csproj", "{6668B1CE-15AB-438C-9DBC-BDC58443FD70}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nordic", "nordic.csproj", "{6B161D4C-9914-4E27-A833-78FB1B52E9B1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{6668B1CE-15AB-438C-9DBC-BDC58443FD70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{6668B1CE-15AB-438C-9DBC-BDC58443FD70}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{6668B1CE-15AB-438C-9DBC-BDC58443FD70}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{6668B1CE-15AB-438C-9DBC-BDC58443FD70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6B161D4C-9914-4E27-A833-78FB1B52E9B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B161D4C-9914-4E27-A833-78FB1B52E9B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B161D4C-9914-4E27-A833-78FB1B52E9B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B161D4C-9914-4E27-A833-78FB1B52E9B1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {1A0AD749-BE99-4276-BAE6-AEDD2AE5A147}
+		SolutionGuid = {DA0EB477-714D-4C80-A3F1-014045DB1EB5}
 	EndGlobalSection
 EndGlobal
