@@ -53,7 +53,7 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="ButtonHover">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="LandingPageBackground">
@@ -5022,7 +5022,7 @@
         <Background Type="CT_RAW" Source="FF434C5E" />
       </Color>
       <Color Name="MainWindowButtonHoverInactiveBorder">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="MainWindowButtonHoverInactiveGlyph">
         <Background Type="CT_RAW" Source="FFECEFF4" />
@@ -5037,7 +5037,7 @@
         <Background Type="CT_RAW" Source="FF434C5E" />
       </Color>
       <Color Name="MainWindowButtonHoverActiveBorder">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="MainWindowButtonHoverActiveGlyph">
         <Background Type="CT_RAW" Source="FFECEFF4" />
@@ -5249,7 +5249,7 @@
         <Background Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="CommandBarSplitButtonMouseOverGlyph">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
       </Color>
       <Color Name="CommandBarSplitButtonMouseDownGlyph">
         <Background Type="CT_RAW" Source="FF2E3440" />
@@ -5884,7 +5884,7 @@
         <Background Type="CT_RAW" Source="FF434C5E" />
       </Color>
       <Color Name="CloseButtonHoverGlyph">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
       </Color>
       <Color Name="CloseButtonHoverBorder">
         <Background Type="CT_RAW" Source="FF4C566A" />
@@ -6809,7 +6809,7 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="ActionButtonMouseOverGlyph">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
       </Color>
       <Color Name="PopupCheckboxCheckmark">
         <Background Type="CT_RAW" Source="FFECEFF4" />
