@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="Nordic" GUID="{2b72fd1b-7b68-43c4-9639-c68417e32872}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="Nordic" GUID="{dd12a667-3770-48a4-a2bf-e15b153ce197}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF2E3440" />
@@ -1840,11 +1840,11 @@
       </Color>
       <Color Name="CppOperatorSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF88C0D0" />
+        <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="CppMemberOperatorSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF88C0D0" />
+        <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="CppNewDeleteSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2312,7 +2312,7 @@
       </Color>
       <Color Name="Python operator">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFECEFF4" />
+        <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="Python grouping">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2428,7 +2428,7 @@
       </Color>
       <Color Name="HTML Operator">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF88C0D0" />
+        <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="HTML Server-Side Script">
         <Background Type="CT_RAW" Source="FF4C566A" />
@@ -2448,7 +2448,7 @@
       </Color>
       <Color Name="VBScript Operator">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFECEFF4" />
+        <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="VBScript Number">
         <Background Type="CT_RAW" Source="FF2E3440" />
@@ -2536,7 +2536,7 @@
       </Color>
       <Color Name="operator - overloaded">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF88C0D0" />
+        <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="field name">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2612,7 +2612,7 @@
       </Color>
       <Color Name="Operator">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFECEFF4" />
+        <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="Literal">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2767,7 +2767,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Guideline">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FFB48EAD" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="TrailingWhitespace">
@@ -2796,7 +2796,7 @@
       </Color>
       <Color Name="ReSharper Operator Identifier">
         <Background Type="CT_RAW" Source="FF2E3440" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="ReSharper Matched Format String Item">
         <Background Type="CT_RAW" Source="FF4C566A" />
@@ -2832,7 +2832,7 @@
       </Color>
       <Color Name="ReSharper C++ Overloaded Operator Identifier">
         <Background Type="CT_RAW" Source="FF2E3440" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="ReSharper C++ Typedef Identifier">
         <Background Type="CT_RAW" Source="FF2E3440" />
@@ -2888,7 +2888,7 @@
       </Color>
       <Color Name="ReSharper C# Overloaded Operator">
         <Background Type="CT_RAW" Source="FF2E3440" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="ReSharper C# Local Function Identifier">
         <Background Type="CT_RAW" Source="FF2E3440" />
