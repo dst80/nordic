@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="Nordic" GUID="{dd12a667-3770-48a4-a2bf-e15b153ce197}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="Nordic (6)" GUID="{1de529c7-c3ec-4df8-846c-568e5ea49d85}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF2E3440" />
@@ -1745,7 +1745,7 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
     </Category>
-    <Category Name="ColorizedSignatureHelp colors" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
+    <Category Name="Cpp Text Editor MEF Items" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
       <Color Name="CppMacroSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
@@ -3002,6 +3002,18 @@
         <Background Type="CT_RAW" Source="FF2E3440" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
+      <Color Name="axml - attribute name">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="axml - attribute value">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="axml - entity reference">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
     </Category>
     <Category Name="CpuUsageTool" GUID="{02071ec8-0cf0-4822-af30-9f001537e7eb}">
       <Color Name="CallerCalleeFunctionGroupBackground">
@@ -3327,10 +3339,10 @@
         <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="Highlight">
-        <Background Type="CT_RAW" Source="FF5E81AC" />
+        <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="HighlightText">
-        <Background Type="CT_RAW" Source="FF5E81AC" />
+        <Background Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="InactiveBorder">
         <Background Type="CT_RAW" Source="FF4C566A" />
