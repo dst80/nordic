@@ -1747,7 +1747,7 @@
     </Category>
     <Category Name="Cpp Text Editor MEF Items" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
       <Color Name="CppMacroSemanticTokenFormat">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="CppEnumSemanticTokenFormat">
@@ -2287,51 +2287,51 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Python class">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="Python module">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="Python parameter">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="Python function">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF88C0D0" />
       </Color>
       <Color Name="Python documentation">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFA3BE8C" />
       </Color>
       <Color Name="Python regex">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="Python operator">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="Python grouping">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Python comma">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Python dot">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Python builtin">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="FSharp.Function">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF88C0D0" />
       </Color>
       <Color Name="FSharp.MutableVar">
@@ -2339,7 +2339,7 @@
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="FSharp.Printf">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="FSharp.Property">
@@ -2351,83 +2351,83 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Django template tag">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="ScssVariableDeclarationClassificationFormat">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="ScssVariableReferenceFormat">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="ScssMixinDeclarationFormat">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="ScssMixinReferenceFormat">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="LessCssVariableDeclarationClassificationFormat">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="LessCssVariableReferenceFormat">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="LessCssNamespaceReferenceFormat">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="LessCssMixinDeclarationFormat">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="LessCssMixinReferenceFormat">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="LessCssKeywordFormat">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="HtmlClientTemplateSeparatorFormatDefinition">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="HtmlClientTemplateTagFormatDefinition">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFA3BE8C" />
       </Color>
       <Color Name="HtmlClientTemplateValueFormatDefinition">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="HTML Attribute">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="HTML Attribute Value">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFEBCB8B" />
       </Color>
       <Color Name="HTML Comment">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="HTML Element Name">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="HTML Entity">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="HTML Operator">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="HTML Server-Side Script">
@@ -2435,39 +2435,39 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="HTML Tag Delimiter">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="VBScript Keyword">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="VBScript Comment">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="VBScript Operator">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="VBScript Number">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFD08770" />
       </Color>
       <Color Name="VBScript String">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFA3BE8C" />
       </Color>
       <Color Name="VBScript Identifier">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="VBScript Function Block Start">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF88C0D0" />
       </Color>
       <Color Name="UnnecessaryCode">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="CodeAnalysisWarningSelection">
@@ -2495,19 +2495,19 @@
         <Foreground Type="CT_RAW" Source="FF434C5E" />
       </Color>
       <Color Name="RoslynConflictTag">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="RoslynPreviewWarningTag">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="RenameTrackingTag">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="RoslynRenameConflictTag">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="RoslynRenameFieldBackgroundAndBorderTag">
@@ -2515,67 +2515,67 @@
         <Foreground Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="RoslynRenameFixupTag">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="RoslynActiveStatementTag">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Edit and Continue">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="Inline Rename Field Text">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFA3BE8C" />
       </Color>
       <Color Name="keyword - control">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="operator - overloaded">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="field name">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="enum member name">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="constant name">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="local name">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="parameter name">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="method name">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="extension method name">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="property name">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="event name">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="namespace name">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFEBCB8B" />
       </Color>
       <Color Name="label name">
@@ -2587,7 +2587,7 @@
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="Peek History Selected">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Peek History Hovered">
@@ -2703,7 +2703,7 @@
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="deltadiff.remove.line">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="deltadiff.add.line">
@@ -2775,19 +2775,19 @@
         <Foreground Type="CT_RAW" Source="FFBF616A" />
       </Color>
       <Color Name="ReSharper Warning">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="ReSharper Parameter Name Hint">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF88C0D0" />
       </Color>
       <Color Name="ReSharper Function Identifier">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="ReSharper Method Identifier">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Static Method Identifier">
@@ -2795,7 +2795,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Operator Identifier">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="ReSharper Matched Format String Item">
@@ -2815,15 +2815,15 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Injected Language Keyword">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="ReSharper Stack Trace Method">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="ReSharper Stack Trace Path">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="ReSharper Highlight">
@@ -2831,35 +2831,35 @@
         <Foreground Type="CT_RAW" Source="FF88C0D0" />
       </Color>
       <Color Name="ReSharper C++ Overloaded Operator Identifier">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="ReSharper C++ Typedef Identifier">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="ReSharper C++ Union Identifier">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="ReSharper C++ Enum Identifier">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="ReSharper C++ Struct Identifier">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="ReSharper C++ Class Identifier">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="ReSharper IL Keyword">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="ReSharper IL Method Identifier">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="ReSharper IL Identifier">
@@ -2871,7 +2871,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper C# Method Identifier">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper C# Accessor Identifier">
@@ -2879,7 +2879,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper C# Static Method Identifier">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper C# Extension Method Identifier">
@@ -8054,11 +8054,11 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Selected Text">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF4C566A" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Inactive Selected Text">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF4C566A" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Indicator Margin">
@@ -8072,7 +8072,7 @@
     </Category>
     <Category Name="Text Editor Text Marker Items" GUID="{ff349800-ea43-46c1-8c98-878e78f46501}">
       <Color Name="hinted suggestion">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="Read-Only Region">
@@ -8080,51 +8080,51 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Task List Shortcut">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Bookmark">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="compiler error">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="syntax error">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="other error">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="Collapsible Text (Collapsed)">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="Collapsible Text (Expanded)">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="Current List Location">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="compiler warning">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFA3BE8C" />
       </Color>
       <Color Name="Code Snippet Field">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Code Snippet Field (Selected)">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Smart Tag">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="Track Changes before save">
@@ -8132,15 +8132,15 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Track Changes after save">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF8FBCBB" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Bookmark (Disabled)">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Brace Matching (Rectangle)">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="Definition Window Background">
@@ -8148,7 +8148,7 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Definition Window Current Match">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Warning Lines Path">
@@ -8156,7 +8156,7 @@
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="Brace Matching (Highlight)">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="Refactoring Background">
@@ -8164,15 +8164,15 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Code Snippet Dependent Field">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Refactoring Current Field">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Refactoring Dependent Field">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Logpoint - Advanced (Enabled)">
@@ -8180,7 +8180,7 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Tracepoint - Mapped (Enabled)">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="Snappoint (Disabled)">
@@ -8189,7 +8189,7 @@
       </Color>
       <Color Name="Snappoint (Alert)">
         <Background Type="CT_RAW" Source="FFB48EAD" />
-        <Foreground Type="CT_RAW" Source="FF2E3440" />
+        <Foreground Type="CT_AUTOMATIC" Source="00000000" />
       </Color>
       <Color Name="Tracepoint (Disabled)">
         <Background Type="CT_RAW" Source="FF2E3440" />
