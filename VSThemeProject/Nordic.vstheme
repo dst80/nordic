@@ -1338,7 +1338,7 @@
         <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="InnerTabInactiveText">
-        <Background Type="CT_RAW" Source="FFECEFF4" />
+        <Background Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="InnerTabInactiveHoverBackground">
         <Background Type="CT_RAW" Source="FF434C5E" />
@@ -1368,7 +1368,7 @@
         <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="TextBoxBackgroundFocused">
-        <Background Type="CT_RAW" Source="FF434C5E" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
       </Color>
       <Color Name="TextBoxBorderFocused">
         <Background Type="CT_RAW" Source="FF4C566A" />
@@ -4330,13 +4330,13 @@
         <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="ControlEditHintText">
-        <Background Type="CT_RAW" Source="FFD8DEE9" />
+        <Background Type="CT_RAW" Source="FF646E81" />
       </Color>
       <Color Name="ControlEditRequiredBackground">
         <Background Type="CT_RAW" Source="FF3B4252" />
       </Color>
       <Color Name="ControlEditRequiredHintText">
-        <Background Type="CT_RAW" Source="FFD8DEE9" />
+        <Background Type="CT_RAW" Source="FF646E81" />
       </Color>
       <Color Name="ControlLinkText">
         <Background Type="CT_RAW" Source="FF5E81AC" />
@@ -5470,7 +5470,7 @@
         <Background Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="ToolTipHintText">
-        <Background Type="CT_RAW" Source="FFD8DEE9" />
+        <Background Type="CT_RAW" Source="FF646E81" />
       </Color>
       <Color Name="CommandBarMenuScrollGlyph">
         <Background Type="CT_RAW" Source="FF4C566A" />
@@ -6535,7 +6535,7 @@
         <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="TextBoxFocused">
-        <Background Type="CT_RAW" Source="FF434C5E" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="BackgroundLowerRegion">
@@ -7753,7 +7753,7 @@
         <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="RequiredTextBoxBorder">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
       </Color>
       <Color Name="CodeReviewDiscussionItemSelected">
         <Background Type="CT_RAW" Source="FFECEFF4" />
@@ -7763,7 +7763,7 @@
         <Background Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="TextBoxHintText">
-        <Background Type="CT_RAW" Source="FFECEFF4" />
+        <Background Type="CT_RAW" Source="FF646E81" />
       </Color>
       <Color Name="ButtonDisabledBorder">
         <Background Type="CT_RAW" Source="FF4C566A" />
@@ -7776,7 +7776,7 @@
         <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="ButtonMouseOver">
-        <Background Type="CT_RAW" Source="FFECEFF4" />
+        <Background Type="CT_RAW" Source="FF4C566A" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="ButtonDisabled">
@@ -8696,7 +8696,7 @@
         <Background Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="IDCardMinimalModeInactiveWindowText">
-        <Background Type="CT_RAW" Source="FFECEFF4" />
+        <Background Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="IDCardMinimalModeInactiveText">
         <Background Type="CT_RAW" Source="FFD8DEE9" />
@@ -9012,7 +9012,7 @@
     </Category>
     <Category Name="VisualProfiler" GUID="{cf3994af-130f-4f0d-a84e-3601e4e357d9}">
       <Color Name="HintText">
-        <Background Type="CT_RAW" Source="FFECEFF4" />
+        <Background Type="CT_RAW" Source="FF646E81" />
       </Color>
     </Category>
     <Category Name="VisualStudioInstaller" GUID="{53212856-7528-403d-84e6-76820f4cef73}">
@@ -9298,7 +9298,7 @@
       </Color>
       <Color Name="DropDownInactive">
         <Background Type="CT_RAW" Source="FF3B4252" />
-        <Foreground Type="CT_RAW" Source="FFECEFF4" />
+        <Foreground Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="GridSortedCell">
         <Background Type="CT_RAW" Source="FF2E3440" />
