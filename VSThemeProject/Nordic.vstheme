@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="nordic" GUID="{1de529c7-c3ec-4df8-846c-568e5ea49d85}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="nordic (1)" GUID="{0a4ce7fb-2d2f-41dc-8e70-13c7f15673cb}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF2E3440" />
@@ -8208,11 +8208,11 @@
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="Breakpoint - Advanced (Disabled)">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="E02E3440" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="Breakpoint - Advanced (Enabled)">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="E02E3440" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Tracepoint (Error)">
@@ -8240,7 +8240,7 @@
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="Breakpoint - Advanced (Warning)">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="E02E3440" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Snappoint (Error)">
@@ -8256,7 +8256,7 @@
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="Breakpoint - Mapped (Warning)">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="E02E3440" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Logpoint - Advanced (Warning)">
@@ -8264,11 +8264,11 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Breakpoint - Mapped (Disabled)">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="E02E3440" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="Breakpoint - Mapped (Error)">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="E02E3440" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="Breakpoint - Advanced (Error)">
@@ -8304,7 +8304,7 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Breakpoint (Disabled)">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="E02E3440" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="Logpoint (Alert)">
@@ -8328,7 +8328,7 @@
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="Breakpoint (Warning)">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="E02E3440" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Snappoint - Advanced (Enabled)">
@@ -8348,7 +8348,7 @@
         <Foreground Type="CT_AUTOMATIC" Source="00000000" />
       </Color>
       <Color Name="Breakpoint - Selected">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="E02E3440" />
         <Foreground Type="CT_RAW" Source="FFEBCB8B" />
       </Color>
       <Color Name="Coverage Partially Touched Area">
@@ -8364,7 +8364,7 @@
         <Foreground Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="Breakpoint (Enabled)">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="E02E3440" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Snappoint (Checked)">
@@ -8408,7 +8408,7 @@
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="Breakpoint - Mapped (Enabled)">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="E02E3440" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Tracepoint (Warning)">
