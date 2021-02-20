@@ -529,10 +529,10 @@
       </Color>
       <Color Name="FloatingMenu">
         <Background Type="CT_RAW" Source="FF2E3440" />
-        <Foreground Type="CT_RAW" Source="FF5E81AC" />
+        <Foreground Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="FloatingMenuBorder">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF2E3440" />
       </Color>
       <Color Name="TimelinePropertyXamlBackground">
         <Background Type="CT_RAW" Source="FF2E3440" />
@@ -743,7 +743,7 @@
       </Color>
       <Color Name="FloatingMenuMouseOver">
         <Background Type="CT_RAW" Source="FF434C5E" />
-        <Foreground Type="CT_RAW" Source="FF5E81AC" />
+        <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="LivePropertyExplorerResourceReference">
         <Background Type="CT_RAW" Source="FFA3BE8C" />
@@ -4164,7 +4164,7 @@
         <Background Type="CT_RAW" Source="FF2E3440" />
       </Color>
       <Color Name="ToolWindowFloatingFrame">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF2E3440" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="ToolWindowTabMouseOverBackgroundBegin">
@@ -4867,11 +4867,11 @@
         <Background Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="ToolWindowFloatingFrameInactive">
-        <Background Type="CT_RAW" Source="FF3B4252" />
-        <Foreground Type="CT_RAW" Source="FF3B4252" />
+        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Foreground Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="RaftedWindowButtonInactiveBorder">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF2E3440" />
       </Color>
       <Color Name="RaftedWindowButtonInactiveGlyph">
         <Background Type="CT_RAW" Source="FF4C566A" />
@@ -4880,31 +4880,31 @@
         <Background Type="CT_RAW" Source="FF434C5E" />
       </Color>
       <Color Name="RaftedWindowButtonHoverInactiveBorder">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF2E3440" />
       </Color>
       <Color Name="RaftedWindowButtonHoverInactiveGlyph">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="RaftedWindowButtonActiveBorder">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF2E3440" />
       </Color>
       <Color Name="RaftedWindowButtonActiveGlyph">
-        <Background Type="CT_RAW" Source="FFECEFF4" />
+        <Background Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="RaftedWindowButtonHoverActive">
         <Background Type="CT_RAW" Source="FF434C5E" />
       </Color>
       <Color Name="RaftedWindowButtonHoverActiveBorder">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF2E3440" />
       </Color>
       <Color Name="RaftedWindowButtonHoverActiveGlyph">
         <Background Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="RaftedWindowButtonDown">
-        <Background Type="CT_RAW" Source="FF434C5E" />
+        <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="RaftedWindowButtonDownBorder">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF2E3440" />
       </Color>
       <Color Name="RaftedWindowButtonDownGlyph">
         <Background Type="CT_RAW" Source="FFECEFF4" />
@@ -5389,7 +5389,7 @@
         <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="RaftedWindowInactiveIconNoSolution">
-        <Background Type="CT_RAW" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="RaftedWindowActiveIconDefault">
         <Background Type="CT_RAW" Source="FFECEFF4" />
@@ -5404,13 +5404,13 @@
         <Background Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="RaftedWindowInactiveIconDefault">
-        <Background Type="CT_RAW" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="RaftedWindowInactiveIconBuilding">
-        <Background Type="CT_RAW" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="RaftedWindowInactiveIconDebugging">
-        <Background Type="CT_RAW" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="CommandBarMenuItemMouseOverBorder">
         <Background Type="CT_RAW" Source="FF4C566A" />
