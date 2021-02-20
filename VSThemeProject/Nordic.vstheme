@@ -2167,11 +2167,11 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="MarkerFormatDefinition/ScrollBarComment">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF8FBCBB" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="MarkerFormatDefinition/FilteredScrollBarComment">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFA3BE8C" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="MarkerFormatDefinition/CommentMark">
@@ -2183,12 +2183,12 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="CodeReview.SelectedComment.AnchorPoint">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF5E81AC" />
+        <Background Type="CT_RAW" Source="FFEBCB8B" />
+        <Foreground Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="CodeReview.UnselectedComment.AnchorPoint">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF5E81AC" />
+        <Background Type="CT_RAW" Source="FFEBCB8B" />
+        <Foreground Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="JSON Property Name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
