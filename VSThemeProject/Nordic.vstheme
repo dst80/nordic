@@ -541,7 +541,7 @@
         <Background Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="TimelineXamlForeground">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="StylePaneRuleScopeAdorner">
         <Background Type="CT_RAW" Source="00000000" />
@@ -4246,7 +4246,7 @@
         <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="VizSurfaceSteelBlueLight">
-        <Background Type="CT_RAW" Source="FF828997" />
+        <Background Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="VizSurfaceSteelBlueMedium">
         <Background Type="CT_RAW" Source="FF81A1C1" />
@@ -6791,7 +6791,7 @@
       </Color>
       <Color Name="MouseOverCategoryTab">
         <Background Type="CT_RAW" Source="FF5E81AC" />
-        <Foreground Type="CT_RAW" Source="FF5E81AC" />
+        <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
     </Category>
     <Category Name="Promotion" GUID="{8fafb063-4106-4756-81dc-d7769f24d056}">
@@ -7155,6 +7155,7 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="StartPageListItem">
+        <Background Type="CT_RAW" Source="FF2E3440" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="StartPageListItemPressed">
@@ -9425,12 +9426,122 @@
       </Color>
       <Color Name="WindowPanel">
         <Background Type="CT_RAW" Source="FF2E3440" />
+        <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="CardBackgroundDefault">
         <Background Type="CT_RAW" Source="FF2E3440" />
       </Color>
       <Color Name="CardBackgroundSelected">
         <Background Type="CT_RAW" Source="FF2E3440" />
+      </Color>
+      <Color Name="WindowBorder">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="Hyperlink">
+        <Background Type="CT_RAW" Source="FF0097FB" />
+      </Color>
+      <Color Name="SelectedItemActive">
+        <Background Type="CT_RAW" Source="FF007ACC" />
+        <Foreground Type="CT_RAW" Source="FFA3BE8C" />
+      </Color>
+      <Color Name="SelectedItemInactive">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+        <Foreground Type="CT_RAW" Source="FFA3BE8C" />
+      </Color>
+      <Color Name="ListItemMouseOver">
+        <Background Type="CT_RAW" Source="FF3F3F40" />
+        <Foreground Type="CT_RAW" Source="FFECEFF4" />
+      </Color>
+      <Color Name="GridLine">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="WizardFooter">
+        <Background Type="CT_RAW" Source="FF2D2D30" />
+      </Color>
+      <Color Name="SectionDivider">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="HeaderTextSecondary">
+        <Background Type="CT_RAW" Source="FFD8DEE9" />
+      </Color>
+      <Color Name="WizardFooterText">
+        <Background Type="CT_RAW" Source="FFD8DEE9" />
+      </Color>
+      <Color Name="CardBorderSelected">
+        <Background Type="CT_RAW" Source="FF007ACC" />
+      </Color>
+      <Color Name="CardBorderDisabled">
+        <Background Type="CT_RAW" Source="FF3F3F46" />
+      </Color>
+      <Color Name="NewItemFileStatusNewFile">
+        <Background Type="CT_RAW" Source="FFA3BE8C" />
+      </Color>
+      <Color Name="NewItemFileStatusUnchangedFile">
+        <Background Type="CT_RAW" Source="FF007ACC" />
+      </Color>
+      <Color Name="CardIcon">
+        <Background Type="CT_RAW" Source="FFD8DEE9" />
+      </Color>
+      <Color Name="TemplateInfoPageDescription">
+        <Background Type="CT_RAW" Source="FFD8DEE9" />
+      </Color>
+      <Color Name="ChangesSummaryDetailFileHeader">
+        <Background Type="CT_RAW" Source="FF2D2D30" />
+        <Foreground Type="CT_RAW" Source="FFECEFF4" />
+      </Color>
+      <Color Name="HeaderText">
+        <Background Type="CT_RAW" Source="FFECEFF4" />
+      </Color>
+      <Color Name="HyperlinkHover">
+        <Background Type="CT_RAW" Source="FF55AAFF" />
+      </Color>
+      <Color Name="HyperlinkDisabled">
+        <Background Type="CT_RAW" Source="FF656565" />
+      </Color>
+      <Color Name="ListItemDisabledText">
+        <Background Type="CT_RAW" Source="FF656565" />
+      </Color>
+      <Color Name="GridHeadingBackground">
+        <Background Type="CT_RAW" Source="00000000" />
+      </Color>
+      <Color Name="GridHeadingHoverBackground">
+        <Background Type="CT_RAW" Source="00000000" />
+      </Color>
+      <Color Name="GridHeadingText">
+        <Background Type="CT_RAW" Source="FFD8DEE9" />
+      </Color>
+      <Color Name="GridHeadingHoverText">
+        <Background Type="CT_RAW" Source="FFECEFF4" />
+      </Color>
+      <Color Name="CardTitleText">
+        <Background Type="CT_RAW" Source="FFECEFF4" />
+      </Color>
+      <Color Name="CardDescriptionText">
+        <Background Type="CT_RAW" Source="FFD8DEE9" />
+      </Color>
+      <Color Name="CardBorderDefault">
+        <Background Type="CT_RAW" Source="FF555555" />
+      </Color>
+      <Color Name="CardBorderHover">
+        <Background Type="CT_RAW" Source="FFD8DEE9" />
+      </Color>
+      <Color Name="DeleteTemplateIcon">
+        <Background Type="CT_RAW" Source="FFE51400" />
+      </Color>
+      <Color Name="NewItemFileStatusModifiedFile">
+        <Background Type="CT_RAW" Source="FF3399FF" />
+      </Color>
+      <Color Name="NewItemFileStatusConflictingFile">
+        <Background Type="CT_RAW" Source="FFE51400" />
+      </Color>
+      <Color Name="NewItemFileStatusConflictingStylesFile">
+        <Background Type="CT_RAW" Source="FFFFB900" />
+      </Color>
+      <Color Name="NewItemFileStatusWarningFile">
+        <Background Type="CT_RAW" Source="FFFFB900" />
+      </Color>
+      <Color Name="CardFooterText">
+        <Background Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
     </Category>
     <Category Name="ReSharper" GUID="{b7f08e34-ad23-4855-9daf-f1cf808a7c72}">
@@ -9441,12 +9552,14 @@
     <Category Name="ThemedUtilityDialog" GUID="{e2961a72-48a5-4da7-8168-1fee490f78a7}">
       <Color Name="ActiveCaption">
         <Background Type="CT_RAW" Source="FF2E3440" />
+        <Foreground Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="WindowBorder">
         <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="WindowPanel">
         <Background Type="CT_RAW" Source="FF2E3440" />
+        <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="WindowButtonDown">
         <Background Type="CT_RAW" Source="FF4C566A" />
@@ -9455,7 +9568,39 @@
         <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="WindowButtonHoverGlyph">
-        <Background Type="CT_RAW" Source="FF434C5E" />
+        <Background Type="CT_RAW" Source="FF007ACC" />
+      </Color>
+      <Color Name="WindowButton">
+        <Background Type="CT_RAW" Source="00000000" />
+      </Color>
+      <Color Name="WindowButtonHover">
+        <Background Type="CT_RAW" Source="72555555" />
+      </Color>
+      <Color Name="WindowButtonBorder">
+        <Background Type="CT_RAW" Source="00000000" />
+      </Color>
+      <Color Name="WindowButtonHoverBorder">
+        <Background Type="CT_RAW" Source="72555555" />
+      </Color>
+      <Color Name="WindowButtonGlyph">
+        <Background Type="CT_RAW" Source="FFECEFF4" />
+      </Color>
+      <Color Name="WindowButtonDownGlyph">
+        <Background Type="CT_RAW" Source="FFA3BE8C" />
+      </Color>
+    </Category>
+    <Category Name="XamarinDesigner" GUID="{78d640b7-154a-4d1e-bbe8-fee14b3ccf29}">
+      <Color Name="DeviceBorder">
+        <Background Type="CT_RAW" Source="FFD8DEE9" />
+      </Color>
+      <Color Name="DesignerSurfaceBackground">
+        <Background Type="CT_RAW" Source="FF1B1B1B" />
+      </Color>
+      <Color Name="DialogErrorText">
+        <Background Type="CT_RAW" Source="FFE51400" />
+      </Color>
+      <Color Name="EditorColorSwatchBorder">
+        <Background Type="CT_RAW" Source="FF808080" />
       </Color>
     </Category>
   </Theme>
