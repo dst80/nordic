@@ -2112,7 +2112,7 @@
       </Color>
       <Color Name="Peek Focused Border">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_AUTOMATIC" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="Peek Background Unfocused">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -2179,7 +2179,7 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="MarkerFormatDefinition/CommentHighlight">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="CodeReview.SelectedComment.AnchorPoint">
@@ -2279,7 +2279,7 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="mergeEditor.SelectionBox">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="E02E3440" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="mergeEditor.WordDiffBox">
@@ -2775,11 +2775,11 @@
         <Foreground Type="CT_RAW" Source="FFBF616A" />
       </Color>
       <Color Name="ReSharper Warning">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="ReSharper Parameter Name Hint">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF88C0D0" />
       </Color>
       <Color Name="ReSharper Function Identifier">
@@ -2787,7 +2787,7 @@
         <Foreground Type="CT_RAW" Source="FF88C0D0" />
       </Color>
       <Color Name="ReSharper Method Identifier">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Static Method Identifier">
@@ -2795,7 +2795,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Operator Identifier">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="ReSharper Matched Format String Item">
@@ -2815,15 +2815,15 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Injected Language Keyword">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="ReSharper Stack Trace Method">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="ReSharper Stack Trace Path">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="ReSharper Highlight">
@@ -2831,39 +2831,39 @@
         <Foreground Type="CT_RAW" Source="FF88C0D0" />
       </Color>
       <Color Name="ReSharper C++ Overloaded Operator Identifier">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="ReSharper C++ Typedef Identifier">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="ReSharper C++ Union Identifier">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="ReSharper C++ Enum Identifier">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="ReSharper C++ Struct Identifier">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="ReSharper C++ Class Identifier">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="ReSharper IL Keyword">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="ReSharper IL Method Identifier">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="ReSharper IL Identifier">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="ReSharper IL Viewer synchronization">
@@ -2871,23 +2871,23 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper C# Method Identifier">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper C# Accessor Identifier">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper C# Static Method Identifier">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper C# Extension Method Identifier">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper C# Overloaded Operator">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="ReSharper C# Local Function Identifier">
@@ -2895,7 +2895,7 @@
         <Foreground Type="CT_RAW" Source="FF88C0D0" />
       </Color>
       <Color Name="ReSharper Todo Item Edit">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFBF616A" />
       </Color>
       <Color Name="ReSharper Todo Item Edit Marker on Error Stripe">
@@ -2903,7 +2903,7 @@
         <Foreground Type="CT_RAW" Source="FFEBCB8B" />
       </Color>
       <Color Name="ReSharper Todo Item Normal">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFBF616A" />
       </Color>
       <Color Name="ReSharper Todo Item Normal Marker on Error Stripe">
@@ -2911,7 +2911,7 @@
         <Foreground Type="CT_RAW" Source="FFA3BE8C" />
       </Color>
       <Color Name="ReSharper Todo Item Question">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFBF616A" />
       </Color>
       <Color Name="ReSharper Todo Item Question Marker on Error Stripe">
@@ -2919,15 +2919,15 @@
         <Foreground Type="CT_RAW" Source="FFD08770" />
       </Color>
       <Color Name="ReSharper Todo Item Hyperlink">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="ReSharper HTML Fallback Attribute Name">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFD08770" />
       </Color>
       <Color Name="ReSharper HTML Fallback Element Name">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFBF616A" />
       </Color>
       <Color Name="ReSharper Regex Matched Selection">
@@ -2935,31 +2935,31 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Template Editor C# Keyword">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="ReSharper Search with Pattern Editor Template Keyword">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="ReSharper Debugger DataTip">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper HTML ID attribute">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="ReSharper CSS value">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="ReSharper CSS keyword">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="ReSharper CSS id selector">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="ReSharper CSS function">
@@ -2975,44 +2975,44 @@
         <Foreground Type="CT_RAW" Source="FFA3BE8C" />
       </Color>
       <Color Name="ReSharper JsDoc Type Annotation Keyword">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="ReSharper Template Editor HTML Tag">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="ReSharper Template Editor JavaScript Keyword">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="ReSharper Template Editor CSS Keyword">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="ReSharper Hyperlink">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="ReSharper Inplace Format Dark">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="ReSharper Stack Trace Hyperlink">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="axml - attribute name">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFBF616A" />
       </Color>
       <Color Name="axml - attribute value">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="axml - entity reference">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="E02E3440" />
       </Color>
     </Category>
     <Category Name="CpuUsageTool" GUID="{02071ec8-0cf0-4822-af30-9f001537e7eb}">
