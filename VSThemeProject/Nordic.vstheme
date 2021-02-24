@@ -2899,24 +2899,24 @@
         <Foreground Type="CT_RAW" Source="FFBF616A" />
       </Color>
       <Color Name="ReSharper Todo Item Edit Marker on Error Stripe">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFBF616A" />
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFEBCB8B" />
       </Color>
       <Color Name="ReSharper Todo Item Normal">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFBF616A" />
       </Color>
       <Color Name="ReSharper Todo Item Normal Marker on Error Stripe">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFBF616A" />
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFA3BE8C" />
       </Color>
       <Color Name="ReSharper Todo Item Question">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFBF616A" />
       </Color>
       <Color Name="ReSharper Todo Item Question Marker on Error Stripe">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFBF616A" />
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFD08770" />
       </Color>
       <Color Name="ReSharper Todo Item Hyperlink">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
