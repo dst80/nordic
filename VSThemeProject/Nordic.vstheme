@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="nordic" GUID="{6004caf8-d635-4a82-a4b7-9e2c71321450}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="nordic (1)" GUID="{6004caf8-d635-4a82-a4b7-9e2c71321450}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF2E3440" />
@@ -1618,10 +1618,10 @@
         <Background Type="CT_RAW" Source="00000000" />
       </Color>
       <Color Name="InnerTabSelectedBackground">
-        <Background Type="CT_RAW" Source="00000000" />
+        <Background Type="CT_RAW" Source="E02E3440" />
       </Color>
       <Color Name="InnerTabSelectedBorder">
-        <Background Type="CT_RAW" Source="00000000" />
+        <Background Type="CT_RAW" Source="E02E3440" />
       </Color>
       <Color Name="InnerTabSelectedIndicator">
         <Background Type="CT_RAW" Source="FF5E81AC" />
@@ -2932,7 +2932,7 @@
       </Color>
       <Color Name="ReSharper Regex Matched Selection">
         <Background Type="CT_RAW" Source="FF4C566A" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="E02E3440" />
       </Color>
       <Color Name="ReSharper Template Editor C# Keyword">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2959,7 +2959,7 @@
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="ReSharper CSS id selector">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="E02E3440" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="ReSharper CSS function">
@@ -5981,7 +5981,7 @@
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="NetworkGridSecondarySelected">
-        <Foreground Type="CT_RAW" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="E02E3440" />
       </Color>
       <Color Name="NetworkHeaderBackground">
         <Background Type="CT_RAW" Source="FF81A1C1" />
@@ -7357,11 +7357,11 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="SelectedText">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="E02E3440" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="InactiveSelectedText">
-        <Background Type="CT_RAW" Source="00000000" />
+        <Background Type="CT_RAW" Source="E02E3440" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
     </Category>
@@ -9062,10 +9062,10 @@
         <Background Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="SelectedAddressText">
-        <Background Type="CT_RAW" Source="00000000" />
+        <Background Type="CT_RAW" Source="E02E3440" />
       </Color>
       <Color Name="SelectedInactiveAddressText">
-        <Background Type="CT_RAW" Source="00000000" />
+        <Background Type="CT_RAW" Source="E02E3440" />
       </Color>
       <Color Name="RedHighlightText">
         <Foreground Type="CT_RAW" Source="FFBF616A" />
