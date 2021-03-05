@@ -2103,11 +2103,11 @@
         <Foreground Type="CT_RAW" Source="FF434C5E" />
       </Color>
       <Color Name="OverviewMarginBackground">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
         <Foreground Type="CT_AUTOMATIC" Source="00000000" />
       </Color>
       <Color Name="Peek Background">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Peek Focused Border">
@@ -2115,7 +2115,7 @@
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="Peek Background Unfocused">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Block Structure Adornments">
@@ -2131,7 +2131,7 @@
         <Foreground Type="CT_RAW" Source="FFEBCB8B" />
       </Color>
       <Color Name="RazorCode">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="RazorTagHelperAttribute">
@@ -2647,7 +2647,7 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="OverviewMarginVisible">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="OverviewMarginCaret">
@@ -2667,7 +2667,7 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="outlining.collapsehintadornment">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="outlining.verticalrule">
@@ -2763,7 +2763,7 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="MarkerFormatDefinition/ScopeHighlight">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Guideline">
