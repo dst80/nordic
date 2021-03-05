@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="nordic (1)" GUID="{6004caf8-d635-4a82-a4b7-9e2c71321450}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="nordic" GUID="{6004caf8-d635-4a82-a4b7-9e2c71321450}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF2E3440" />
@@ -797,7 +797,7 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="SnapshotDiffAddedText">
-        <Foreground Type="CT_RAW" Source="FF4C566A" />
+        <Foreground Type="CT_RAW" Source="FF434C5E" />
       </Color>
       <Color Name="SnapshotDiffModifiedText">
         <Foreground Type="CT_RAW" Source="FF8FBCBB" />
@@ -2703,20 +2703,20 @@
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="deltadiff.remove.line">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="deltadiff.add.line">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="deltadiff.remove.word">
-        <Background Type="CT_RAW" Source="FFD08770" />
-        <Foreground Type="CT_RAW" Source="FFD08770" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
+        <Foreground Type="CT_RAW" Source="FFBF616A" />
       </Color>
       <Color Name="deltadiff.add.word">
-        <Background Type="CT_RAW" Source="FF5E81AC" />
-        <Foreground Type="CT_RAW" Source="FF5E81AC" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
+        <Foreground Type="CT_RAW" Source="FF8FBCBB" />
       </Color>
       <Color Name="deltadiff.overview.color">
         <Background Type="CT_RAW" Source="FF434C5E" />
@@ -5700,31 +5700,31 @@
     </Category>
     <Category Name="Folder Difference" GUID="{b36b0228-dbad-4db0-b9c7-2ad3e572010f}">
       <Color Name="Different content">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
         <Foreground Type="CT_RAW" Source="FFBF616A" />
       </Color>
       <Color Name="Identical content">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Source Only">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Target Only">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Not Downloaded">
-        <Background Type="CT_RAW" Source="FF2E3440" />
-        <Foreground Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Even Row Items">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Odd Row Items">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
     </Category>
@@ -6019,7 +6019,7 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="SnapshotDiffAddedText">
-        <Foreground Type="CT_RAW" Source="FFBF616A" />
+        <Foreground Type="CT_RAW" Source="FF8FBCBB" />
       </Color>
       <Color Name="SnapshotDiffModifiedText">
         <Foreground Type="CT_RAW" Source="FF8FBCBB" />
@@ -7953,27 +7953,27 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="XAML Text">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF2E3440" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="XAML Keyword">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF2E3440" />
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="XAML Delimiter">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF2E3440" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="XAML Comment">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF2E3440" />
         <Foreground Type="CT_RAW" Source="FF646E81" />
       </Color>
       <Color Name="XAML Name">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF2E3440" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="XAML Attribute">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF2E3440" />
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="XAML CData Section">
@@ -7981,27 +7981,27 @@
         <Foreground Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="XAML Processing Instruction">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF2E3440" />
         <Foreground Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="XAML Attribute Value">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF2E3440" />
         <Foreground Type="CT_RAW" Source="FFA3BE8C" />
       </Color>
       <Color Name="XAML Attribute Quotes">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF2E3440" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="XAML Markup Extension Class">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF2E3440" />
         <Foreground Type="CT_RAW" Source="FFD08770" />
       </Color>
       <Color Name="XAML Markup Extension Parameter Name">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF2E3440" />
         <Foreground Type="CT_RAW" Source="FFEBCB8B" />
       </Color>
       <Color Name="XAML Markup Extension Parameter Value">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF2E3440" />
         <Foreground Type="CT_RAW" Source="FFA3BE8C" />
       </Color>
       <Color Name="XML Text">
