@@ -800,7 +800,7 @@
         <Foreground Type="CT_RAW" Source="FF434C5E" />
       </Color>
       <Color Name="SnapshotDiffModifiedText">
-        <Foreground Type="CT_RAW" Source="FF8FBCBB" />
+        <Foreground Type="CT_RAW" Source="FFA3BE8C" />
       </Color>
       <Color Name="SnapshotMessagesBorder">
         <Background Type="CT_RAW" Source="FF4C566A" />
@@ -2703,11 +2703,11 @@
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="deltadiff.remove.line">
-        <Background Type="CT_RAW" Source="FF434C5E" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="deltadiff.add.line">
-        <Background Type="CT_RAW" Source="FF434C5E" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="deltadiff.remove.word">
@@ -2716,10 +2716,10 @@
       </Color>
       <Color Name="deltadiff.add.word">
         <Background Type="CT_RAW" Source="FF434C5E" />
-        <Foreground Type="CT_RAW" Source="FF8FBCBB" />
+        <Foreground Type="CT_RAW" Source="FFA3BE8C" />
       </Color>
       <Color Name="deltadiff.overview.color">
-        <Background Type="CT_RAW" Source="FF434C5E" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
         <Foreground Type="CT_RAW" Source="FF434C5E" />
       </Color>
       <Color Name="C/C++ User Keywords">
@@ -6019,10 +6019,10 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="SnapshotDiffAddedText">
-        <Foreground Type="CT_RAW" Source="FF8FBCBB" />
+        <Foreground Type="CT_RAW" Source="FFA3BE8C" />
       </Color>
       <Color Name="SnapshotDiffModifiedText">
-        <Foreground Type="CT_RAW" Source="FF8FBCBB" />
+        <Foreground Type="CT_RAW" Source="FFA3BE8C" />
       </Color>
       <Color Name="SnapshotMessagesBorder">
         <Background Type="CT_RAW" Source="FF4C566A" />
