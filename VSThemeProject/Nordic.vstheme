@@ -7969,27 +7969,27 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="XAML Text">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="XAML Keyword">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="XAML Delimiter">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="XAML Comment">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF646E81" />
       </Color>
       <Color Name="XAML Name">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="XAML Attribute">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="XAML CData Section">
@@ -7997,27 +7997,27 @@
         <Foreground Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="XAML Processing Instruction">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="XAML Attribute Value">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFA3BE8C" />
       </Color>
       <Color Name="XAML Attribute Quotes">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="XAML Markup Extension Class">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFD08770" />
       </Color>
       <Color Name="XAML Markup Extension Parameter Name">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFEBCB8B" />
       </Color>
       <Color Name="XAML Markup Extension Parameter Value">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFA3BE8C" />
       </Color>
       <Color Name="XML Text">
@@ -9426,7 +9426,7 @@
     </Category>
     <Category Name="XAML Designer" GUID="{fa937f7b-c0d2-46b8-9f10-a7a92642b384}">
       <Color Name="Artboard Background">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_AUTOMATIC" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
     </Category>
