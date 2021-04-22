@@ -2609,7 +2609,7 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Peek Highlighted Text Unfocused">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF4C566A" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Excluded Code">
@@ -2793,7 +2793,7 @@
         <Foreground Type="CT_RAW" Source="E02E3440" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightParameterFormatDefinition">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF4C566A" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Word Wrap Glyph">
