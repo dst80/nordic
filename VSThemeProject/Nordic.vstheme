@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="nordic" GUID="{9d9b95e5-ed31-4840-a6b6-7f1278624009}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="nordic" GUID="{c4f33b98-6510-4c22-96ec-916cef906e03}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF2E3440" />
@@ -2650,7 +2650,7 @@
       </Color>
       <Color Name="OverviewMarginCollapsedRegion">
         <Background Type="CT_RAW" Source="FF3B4252" />
-        <Foreground Type="CT_RAW" Source="FFECEFF4" />
+        <Foreground Type="CT_RAW" Source="FF3B4252" />
       </Color>
       <Color Name="OverviewMarginVisible">
         <Background Type="CT_RAW" Source="FF434C5E" />
@@ -2673,7 +2673,7 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="outlining.collapsehintadornment">
-        <Background Type="CT_RAW" Source="FF434C5E" />
+        <Background Type="CT_RAW" Source="FF2E3440" />
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="outlining.verticalrule">
