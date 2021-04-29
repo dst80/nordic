@@ -4559,7 +4559,7 @@
         <Background Type="CT_RAW" Source="FF2E3440" />
       </Color>
       <Color Name="ToolWindowBorder">
-        <Background Type="CT_RAW" Source="FF3B4252" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
       </Color>
       <Color Name="ToolWindowButtonDown">
         <Background Type="CT_RAW" Source="FF4C566A" />
@@ -5057,7 +5057,7 @@
         <Background Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="MainWindowInactiveBorder">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
       </Color>
       <Color Name="MainWindowActiveCaption">
         <Background Type="CT_RAW" Source="FF2E3440" />
@@ -5144,7 +5144,7 @@
         <Background Type="CT_RAW" Source="FF2E3440" />
       </Color>
       <Color Name="MainWindowActiveDefaultBorder">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
       </Color>
       <Color Name="MainWindowResizeGripTexture2">
         <Background Type="CT_RAW" Source="00000000" />
@@ -9256,7 +9256,7 @@
         <Background Type="CT_RAW" Source="FF2E3440" />
       </Color>
       <Color Name="WindowBorder">
-        <Background Type="CT_RAW" Source="FF3B4252" />
+        <Background Type="CT_RAW" Source="FF434C5E" />
       </Color>
       <Color Name="Hyperlink">
         <Background Type="CT_RAW" Source="FF5E81AC" />
