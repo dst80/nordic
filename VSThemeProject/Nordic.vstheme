@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="nordic" GUID="{f9237ee7-099f-43f2-90a8-5520c3f1d9df}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="nordic" GUID="{77a45d86-da2a-40ff-92b5-c6cc8b1d1ea7}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF2E3440" />
@@ -2870,7 +2870,7 @@
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="ReSharper Parameter Name Hint">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF4C566A" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="ReSharper Function Identifier">
@@ -3194,7 +3194,7 @@
         <Foreground Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="ReSharper Hint">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF4C566A" />
         <Foreground Type="CT_RAW" Source="FF8FBCBB" />
       </Color>
       <Color Name="ReSharper Todo Item None">
@@ -3274,7 +3274,7 @@
         <Foreground Type="CT_RAW" Source="FFEBCB8B" />
       </Color>
       <Color Name="ReSharper Missing Construct Hint">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF4C566A" />
         <Foreground Type="CT_RAW" Source="FFD08770" />
       </Color>
       <Color Name="ReSharper Highlight Marker on Error Stripe">
@@ -3502,7 +3502,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Rearrange Left/Right Code Hint">
-        <Background Type="CT_RAW" Source="FFEBCB8B" />
+        <Background Type="CT_RAW" Source="FF4C566A" />
         <Foreground Type="CT_RAW" Source="FFEBCB8B" />
       </Color>
       <Color Name="ReSharper Rearrange Up/Down Code Hint">
@@ -4002,8 +4002,8 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="inline hints">
-        <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="record class name">
         <Background Type="CT_INVALID" Source="00000000" />
