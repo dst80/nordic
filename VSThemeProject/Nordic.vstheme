@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="nordic" GUID="{1d686c10-0c61-411f-be06-239c82b5651d}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
+  <Theme Name="nordic (1)" GUID="{1d686c10-0c61-411f-be06-239c82b5651d}" BaseGUID="{1ded0138-47ce-435e-84ef-9ec1f439b749}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF2E3440" />
@@ -2210,7 +2210,7 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="MarkerFormatDefinition/CommentHighlight">
-        <Background Type="CT_RAW" Source="FF434C5E" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="CodeReview.SelectedComment.AnchorPoint">
@@ -2518,12 +2518,12 @@
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedDefinition">
-        <Background Type="CT_RAW" Source="FF434C5E" />
-        <Foreground Type="CT_RAW" Source="FF434C5E" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
+        <Foreground Type="CT_RAW" Source="FF3B4252" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedWrittenReference">
-        <Background Type="CT_RAW" Source="FF434C5E" />
-        <Foreground Type="CT_RAW" Source="FF434C5E" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
+        <Foreground Type="CT_RAW" Source="FF3B4252" />
       </Color>
       <Color Name="RoslynConflictTag">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -2634,7 +2634,7 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Peek Highlighted Text Unfocused">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Excluded Code">
@@ -2758,8 +2758,8 @@
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightedReference">
-        <Background Type="CT_RAW" Source="FF434C5E" />
-        <Foreground Type="CT_RAW" Source="FF434C5E" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
+        <Foreground Type="CT_RAW" Source="FF3B4252" />
       </Color>
       <Color Name="XML Doc Comment">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2794,7 +2794,7 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="MarkerFormatDefinition/ScopeHighlight">
-        <Background Type="CT_RAW" Source="FF434C5E" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="Guideline">
@@ -2818,7 +2818,7 @@
         <Foreground Type="CT_RAW" Source="E02E3440" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightParameterFormatDefinition">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Word Wrap Glyph">
@@ -3290,7 +3290,7 @@
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="ReSharper Highlight Target">
-        <Background Type="CT_RAW" Source="FF434C5E" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Highlight Target Marker on Error Stripe">
@@ -3898,7 +3898,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="MarkerFormatDefinition/HighlightVariableFormatDefinition">
-        <Background Type="CT_RAW" Source="FF434C5E" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="data.tools.diff.remove.line">
@@ -4149,7 +4149,7 @@
       </Color>
       <Color Name="BkgTipHighlightText">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
     </Category>
     <Category Name="DebugLocation" GUID="{b20c0001-0836-4535-a5e8-96e595b1f094}">
@@ -4341,7 +4341,7 @@
         <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="HighlightText">
-        <Background Type="CT_RAW" Source="FFD8DEE9" />
+        <Background Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="InactiveBorder">
         <Background Type="CT_RAW" Source="FF4C566A" />
@@ -5377,7 +5377,7 @@
         <Background Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="DebuggerDataTipInactiveHighlightText">
-        <Background Type="CT_RAW" Source="FFD8DEE9" />
+        <Background Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="DebuggerDataTipInactiveSeparator">
         <Background Type="CT_RAW" Source="FF81A1C1" />
@@ -5842,7 +5842,7 @@
         <Background Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="CommandBarToolBarSeparatorHighlight">
-        <Background Type="CT_RAW" Source="FF434C5E" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
       </Color>
       <Color Name="CommandBarOptionsMouseDownGlyph">
         <Background Type="CT_RAW" Source="FF434C5E" />
@@ -6809,7 +6809,7 @@
         <Background Type="CT_RAW" Source="FFBF616A" />
       </Color>
       <Color Name="ColorLinkNormalHighlight">
-        <Background Type="CT_RAW" Source="FFD8DEE9" />
+        <Background Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="ColorLinkSelectedHighlight">
         <Background Type="CT_RAW" Source="FFEBCB8B" />
@@ -7768,7 +7768,7 @@
       </Color>
       <Color Name="Selected Text">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF434C5E" />
+        <Foreground Type="CT_RAW" Source="FF3B4252" />
       </Color>
     </Category>
     <Category Name="ProgressBar" GUID="{94acf70f-a81d-4512-a31d-8196616751ee}">
