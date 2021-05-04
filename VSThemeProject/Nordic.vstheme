@@ -2870,7 +2870,7 @@
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="ReSharper Parameter Name Hint">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="ReSharper Function Identifier">
@@ -3194,7 +3194,7 @@
         <Foreground Type="CT_RAW" Source="FFD8DEE9" />
       </Color>
       <Color Name="ReSharper Hint">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
         <Foreground Type="CT_RAW" Source="FF8FBCBB" />
       </Color>
       <Color Name="ReSharper Todo Item None">
@@ -3274,7 +3274,7 @@
         <Foreground Type="CT_RAW" Source="FFEBCB8B" />
       </Color>
       <Color Name="ReSharper Missing Construct Hint">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
         <Foreground Type="CT_RAW" Source="FFD08770" />
       </Color>
       <Color Name="ReSharper Highlight Marker on Error Stripe">
@@ -3502,7 +3502,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="ReSharper Rearrange Left/Right Code Hint">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
         <Foreground Type="CT_RAW" Source="FFEBCB8B" />
       </Color>
       <Color Name="ReSharper Rearrange Up/Down Code Hint">
@@ -4002,7 +4002,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="inline hints">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="record class name">
