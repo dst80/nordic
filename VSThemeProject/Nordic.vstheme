@@ -4335,7 +4335,7 @@
         <Background Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="GrayText">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="88D8DEE9" />
       </Color>
       <Color Name="Highlight">
         <Background Type="CT_RAW" Source="FF4C566A" />
