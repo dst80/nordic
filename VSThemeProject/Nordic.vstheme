@@ -4608,7 +4608,7 @@
         <Background Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="CommandBarMenuSeparator">
-        <Background Type="CT_RAW" Source="FFD8DEE9" />
+        <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="CommandBarMenuSubmenuGlyph">
         <Background Type="CT_RAW" Source="FFD8DEE9" />
