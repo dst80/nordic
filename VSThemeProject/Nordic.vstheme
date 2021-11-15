@@ -2274,7 +2274,7 @@
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="mergeEditor.AcceptedLine">
-        <Background Type="CT_AUTOMATIC" Source="00000000" />
+        <Background Type="CT_AUTOMATIC" Source="FFA3BE8C" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="mergeEditor.AcceptedSimilarLine">
