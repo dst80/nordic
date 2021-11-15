@@ -392,7 +392,7 @@
         <Background Type="CT_RAW" Source="FF2E3440" />
       </Color>
       <Color Name="MenuSeparator">
-        <Background Type="CT_RAW" Source="FFECEFF4" />
+        <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="Menu">
         <Background Type="CT_RAW" Source="FF88C0D0" />
