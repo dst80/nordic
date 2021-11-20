@@ -2734,20 +2734,20 @@
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="deltadiff.remove.line">
-        <Background Type="CT_RAW" Source="FF3B4252" />
+        <Background Type="CT_RAW" Source="FF7F4044" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="deltadiff.add.line">
-        <Background Type="CT_RAW" Source="FF3B4252" />
+        <Background Type="CT_RAW" Source="FF536248" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="deltadiff.remove.word">
-        <Background Type="CT_RAW" Source="FF434C5E" />
-        <Foreground Type="CT_RAW" Source="FFBF616A" />
+        <Background Type="CT_RAW" Source="FF8C474D" />
+        <Foreground Type="CT_RAW" Source="FF8C474D" />
       </Color>
       <Color Name="deltadiff.add.word">
-        <Background Type="CT_RAW" Source="FF434C5E" />
-        <Foreground Type="CT_RAW" Source="FFA3BE8C" />
+        <Background Type="CT_RAW" Source="FF6B7D5C" />
+        <Foreground Type="CT_RAW" Source="FF6B7D5C" />
       </Color>
       <Color Name="deltadiff.overview.color">
         <Background Type="CT_RAW" Source="FF3B4252" />
@@ -3090,11 +3090,11 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="mergeEditor.WordDiffBoxAccepted">
-        <Background Type="CT_RAW" Source="FF256C56" />
+        <Background Type="CT_RAW" Source="FF778B66" />
         <Foreground Type="CT_RAW" Source="99000000" />
       </Color>
       <Color Name="mergeEditor.WordDiffBoxConflict">
-        <Background Type="CT_RAW" Source="FF9F4A3F" />
+        <Background Type="CT_RAW" Source="FF8C474D" />
         <Foreground Type="CT_RAW" Source="99000000" />
       </Color>
       <Color Name="U-SQL - Error">
