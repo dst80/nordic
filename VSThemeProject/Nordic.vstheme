@@ -2173,6 +2173,10 @@
         <Background Type="CT_RAW" Source="FF3B4252" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
+      <Color Name="RazorDirectiveAttribute">        
+        <Foreground Type="CT_RAW" Source="FF005EBB" />
+      </Color>
+      
       <Color Name="TextMate.Classifier">
         <Background Type="CT_RAW" Source="FFB48EAD" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
@@ -2439,11 +2443,11 @@
       </Color>
       <Color Name="HTML Attribute">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FF81A1C1" />
+        <Foreground Type="CT_RAW" Source="FFEBCB8B" />
       </Color>
       <Color Name="HTML Attribute Value">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFEBCB8B" />
+        <Foreground Type="CT_RAW" Source="FFD08770" />
       </Color>
       <Color Name="HTML Comment">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -4019,10 +4023,10 @@
       </Color>
       <Color Name="RazorComponentElement">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFBF616A" />
       </Color>
       <Color Name="RazorComponentAttribute">
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF9FB8D0" />
       </Color>
     </Category>
     <Category Name="CpuUsageTool" GUID="{02071ec8-0cf0-4822-af30-9f001537e7eb}">
@@ -7442,7 +7446,7 @@
     </Category>
     <Category Name="NavigateTo" GUID="{d58e4793-9fe6-450b-b200-b93a3c17aa12}">
       <Color Name="ResultListItem">
-        <Background Type="CT_RAW" Source="FF88C0D0" />
+        <Background Type="CT_RAW" Source="FF81A1C1" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="ResultListItemDescriptionText">
@@ -7459,7 +7463,7 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="ResultListDescriptionText">
-        <Background Type="CT_RAW" Source="00000000" />
+        <Background Type="CT_RAW" Source="FFECEFF4" />
       </Color>
     </Category>
     <Category Name="NewProjectDialog" GUID="{c36c426e-31c9-4048-84cf-31c111d65ec0}">
