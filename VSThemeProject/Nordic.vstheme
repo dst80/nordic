@@ -1378,6 +1378,10 @@
       </Color>
     </Category>
     <Category Name="CommonDocument" GUID="{72eb4027-f4ae-4b6c-9cc2-dfd5b49d9415}">
+       <Color Name="Container">
+        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Foreground Type="CT_RAW" Source="FFECEFF4" />
+      </Color>
       <Color Name="Page">
         <Background Type="CT_RAW" Source="FF2E3440" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
@@ -2173,10 +2177,10 @@
         <Background Type="CT_RAW" Source="FF3B4252" />
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
-      <Color Name="RazorDirectiveAttribute">        
+      <Color Name="RazorDirectiveAttribute">
         <Foreground Type="CT_RAW" Source="FF005EBB" />
       </Color>
-      
+
       <Color Name="TextMate.Classifier">
         <Background Type="CT_RAW" Source="FFB48EAD" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
