@@ -1378,10 +1378,6 @@
       </Color>
     </Category>
     <Category Name="CommonDocument" GUID="{72eb4027-f4ae-4b6c-9cc2-dfd5b49d9415}">
-       <Color Name="Container">
-        <Background Type="CT_RAW" Source="FF2E3440" />
-        <Foreground Type="CT_RAW" Source="FFECEFF4" />
-      </Color>
       <Color Name="Page">
         <Background Type="CT_RAW" Source="FF2E3440" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
@@ -1678,6 +1674,10 @@
       </Color>
       <Color Name="PageBackground">
         <Background Type="CT_RAW" Source="FF000000" />
+      </Color>
+      <Color Name="Container">
+        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
     </Category>
     <Category Name="CommonDocumentCard" GUID="{2e129498-0d2d-43ca-94d6-c652c0132543}">
@@ -2180,7 +2180,6 @@
       <Color Name="RazorDirectiveAttribute">
         <Foreground Type="CT_RAW" Source="FF005EBB" />
       </Color>
-
       <Color Name="TextMate.Classifier">
         <Background Type="CT_RAW" Source="FFB48EAD" />
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
@@ -7126,78 +7125,78 @@
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="HyperlinkMouseOver">
-        <Foreground Type="CT_RAW" Source="FF81A1C1" />
+        <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="HyperlinkMouseDown">
         <Foreground Type="CT_RAW" Source="FF81A1C1" />
       </Color>
       <Color Name="InfoBarBackground">
-        <Background Type="CT_RAW" Source="FF3B4252" />
-        <Foreground Type="CT_RAW" Source="FFECEFF4" />
+        <Background Type="CT_RAW" Source="FFEBCB8B" />
+        <Foreground Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="CloseButton">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FFEBCB8B" />
       </Color>
       <Color Name="CloseButtonGlyph">
-        <Background Type="CT_RAW" Source="FFECEFF4" />
+        <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="CloseButtonBorder">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FFEBCB8B" />
       </Color>
       <Color Name="CloseButtonHover">
-        <Background Type="CT_RAW" Source="FF434C5E" />
+        <Background Type="CT_RAW" Source="FFE8C77B" />
       </Color>
       <Color Name="CloseButtonHoverGlyph">
-        <Background Type="CT_RAW" Source="FF434C5E" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
       </Color>
       <Color Name="CloseButtonHoverBorder">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
       </Color>
       <Color Name="CloseButtonDown">
-        <Background Type="CT_RAW" Source="FF434C5E" />
+        <Background Type="CT_RAW" Source="FFE0C179" />
       </Color>
       <Color Name="CloseButtonDownGlyph">
         <Background Type="CT_RAW" Source="FF2E3440" />
       </Color>
       <Color Name="CloseButtonDownBorder">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF2E3440" />
       </Color>
       <Color Name="InfoBarBorder">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FFEBCB8B" />
       </Color>
       <Color Name="Button">
-        <Background Type="CT_RAW" Source="FF2E3440" />
-        <Foreground Type="CT_RAW" Source="FFECEFF4" />
+        <Background Type="CT_RAW" Source="FFEBCB8B" />
+        <Foreground Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="ButtonBorder">
         <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="ButtonMouseOver">
-        <Background Type="CT_RAW" Source="FF3B4252" />
-        <Foreground Type="CT_RAW" Source="FFECEFF4" />
+        <Background Type="CT_RAW" Source="FFE8C77B" />
+        <Foreground Type="CT_RAW" Source="FF3B4252" />
       </Color>
       <Color Name="ButtonMouseOverBorder">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
       </Color>
       <Color Name="ButtonDisabledBorder">
         <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="ButtonMouseDown">
-        <Background Type="CT_RAW" Source="FF434C5E" />
-        <Foreground Type="CT_RAW" Source="FF434C5E" />
+        <Background Type="CT_RAW" Source="FFE0C179" />
+        <Foreground Type="CT_RAW" Source="FF2E3440" />
       </Color>
       <Color Name="ButtonMouseDownBorder">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF2E3440" />
       </Color>
       <Color Name="ButtonFocus">
-        <Background Type="CT_RAW" Source="FF3B4252" />
-        <Foreground Type="CT_RAW" Source="FFECEFF4" />
+        <Background Type="CT_RAW" Source="FFEBCB8B" />
+        <Foreground Type="CT_RAW" Source="FF3B4252" />
       </Color>
       <Color Name="ButtonFocusBorder">
-        <Background Type="CT_RAW" Source="FF4C566A" />
+        <Background Type="CT_RAW" Source="FF3B4252" />
       </Color>
       <Color Name="ButtonDisabled">
-        <Background Type="CT_RAW" Source="FF2E3440" />
+        <Background Type="CT_RAW" Source="FFE4D7BE" />
         <Foreground Type="CT_RAW" Source="FF4C566A" />
       </Color>
     </Category>
