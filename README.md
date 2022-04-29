@@ -17,6 +17,13 @@ If you find an issue with this theme, please contact me so that we can improve t
 
 ## What's changed
 
+### Update V1.3.6:
+
+Fixes:
+* Make "golden" bar nord golden ;).
+* Add missing "Publish" Project window container color definition.
+
+
 ### Update V1.3.4:
 
 Fixes:
