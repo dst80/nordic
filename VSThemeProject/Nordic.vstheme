@@ -2178,6 +2178,7 @@
         <Foreground Type="CT_RAW" Source="FFB48EAD" />
       </Color>
       <Color Name="RazorDirectiveAttribute">
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF005EBB" />
       </Color>
       <Color Name="TextMate.Classifier">
@@ -4029,7 +4030,20 @@
         <Foreground Type="CT_RAW" Source="FFBF616A" />
       </Color>
       <Color Name="RazorComponentAttribute">
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF9FB8D0" />
+      </Color>
+      <Color Name="Track modifications in documents under source control">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="vsvim_controlchar">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="vsvim_secondarycaret">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
     </Category>
     <Category Name="CpuUsageTool" GUID="{02071ec8-0cf0-4822-af30-9f001537e7eb}">
@@ -7122,17 +7136,17 @@
     </Category>
     <Category Name="InfoBar" GUID="{832df9d1-d9a9-4eb7-ad13-ff5b421f7432}">
       <Color Name="Hyperlink">
-        <Foreground Type="CT_RAW" Source="FF81A1C1" />
+        <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="HyperlinkMouseOver">
         <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="HyperlinkMouseDown">
-        <Foreground Type="CT_RAW" Source="FF81A1C1" />
+        <Foreground Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="InfoBarBackground">
         <Background Type="CT_RAW" Source="FFEBCB8B" />
-        <Foreground Type="CT_RAW" Source="FF4C566A" />
+        <Foreground Type="CT_RAW" Source="FF2E3440" />
       </Color>
       <Color Name="CloseButton">
         <Background Type="CT_RAW" Source="FFEBCB8B" />
