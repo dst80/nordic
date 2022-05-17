@@ -8798,10 +8798,10 @@
       </Color>
       <Color Name="CodeReviewDiscussionItemSelected">
         <Background Type="CT_RAW" Source="FFECEFF4" />
-        <Foreground Type="CT_RAW" Source="FFECEFF4" />
+        <Foreground Type="CT_RAW" Source="FF2E3440" />
       </Color>
       <Color Name="CodeReviewDiscussionSelectedActionLink">
-        <Background Type="CT_RAW" Source="FFECEFF4" />
+        <Background Type="CT_RAW" Source="FF5E81AC" />
       </Color>
       <Color Name="TextBoxHintText">
         <Background Type="CT_RAW" Source="FF646E81" />
@@ -8883,7 +8883,7 @@
         <Foreground Type="CT_RAW" Source="FFECEFF4" />
       </Color>
       <Color Name="CodeReviewDiscussionDisabledActionLink">
-        <Background Type="CT_RAW" Source="FFD8DEE9" />
+        <Background Type="CT_RAW" Source="FF4C566A" />
       </Color>
       <Color Name="TeamExplorerHomeDefaultIconFill">
         <Background Type="CT_RAW" Source="FF5E81AC" />
