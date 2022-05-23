@@ -78,4 +78,5 @@ Also, some Visual Studio windows cannot be themed, leading to inconsistent style
   <img src="https://contrib.rocks/image?repo=dst80/nordic" />
 </a>
 
-❄️️ Special thanks to Richard Moss
+❄️️ Special thanks to Richard Moss and [h45h74x](https://github.com/h45h74x)
+
