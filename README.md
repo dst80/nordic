@@ -17,6 +17,14 @@ If you find an issue with this theme, please contact me so that we can improve t
 
 ## What's changed
 
+
+### Update V1.3.8:
+
+Fixes:
+* Fixed "Code Review" background color of selected comment.
+* Changed background color for tab panel.
+
+
 ### Update V1.3.6:
 
 Fixes:
@@ -58,7 +66,16 @@ Fixes:
 * Inlay hint color setting
 
 
-## Thanks to 
+## Issues
 
-* burki169
-* Richard Moss
+The project is still in an early state of development, therefore you might run into issues like incorrect foreground/background color pairings or invisible text. Feel free to [open an issue](https://github.com/dst80/nordic/issues) or [create a pull request](https://github.com/dst80/nordic/pulls), so we can fix those issues together. 
+
+Also, some Visual Studio windows cannot be themed, leading to inconsistent styles in some parts of the application.
+
+# Thanks to all contributors!
+
+<a href="https://github.com/dst80/nordic/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dst80/nordic" />
+</a>
+
+❄️️ Special thanks to Richard Moss
