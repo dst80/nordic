@@ -14,6 +14,9 @@ Some of the Visual Studio windows cannot be color adjusted. Therefore, these win
 
 If you find an issue with this theme, please contact me so that we can improve the theme together, because the color definition of Nord is just awesome.
 
+> **Note:** 
+> Due to private circumstances, I am not able to work on this project at the moment. In addition, I cannot promise that I  will be able to continue working on the project in the near or distant future.
+
 
 ## What's changed
 
